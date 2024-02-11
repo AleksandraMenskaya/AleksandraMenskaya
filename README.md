@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-###Contact
+### Contact
+
+### Tools
 
 
-###Tools
+### Project name
 
 
-Project name
+### Tech Stack
 
 
-Tech Stack
-
-
-GitHub Analytics
+### GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
