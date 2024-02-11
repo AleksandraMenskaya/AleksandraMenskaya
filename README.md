@@ -1,19 +1,13 @@
  ## 👋 &nbsp;Hey there! I'm Aleksandra.
  ## 💾 I'm Qa Engineer
 
-### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 🐛 &nbsp;I do manual testing and look for bugs. \
 💾 &nbsp;I do automated testing of test cases. \
 👾 &nbsp;In my free time I enjoy playing board games and traveling.. \
  &nbsp;
 
-
- 
-
-                      
-                     
+                   
 
  ## Tech Stack
  <p align="center">
@@ -22,7 +16,7 @@
 <img width="7%" title="Selenide" src="icon/Selenide.svg">
 <img width="7%" title="Selenoid" src="icon/Selenoid.svg">
 <img width="7%" title="Allure Report" src="icon/Allure_Report.svg">
-<img width="7%" title="Allure Test Ops" src="icon/Allure_Report.svg">
+<img width="7%" title="Allure Test Ops" src="icon/Allure_TestOps.svg">
 <img width="7%" title="Gradle" src="icon/Gradle.svg">
 <img width="7%" title="JUnit5" src="icon/Junit5.svg">
 <img width="7%" title="GitHub" src="icon/GitHub.svg">
