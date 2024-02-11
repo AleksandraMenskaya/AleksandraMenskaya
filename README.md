@@ -17,18 +17,18 @@
 
  ## Tech Stack
  <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="assets/Idea.svg">
-<img width="7%" title="Java" src="assets/Java.svg">
-<img width="7%" title="Selenide" src="assets/Selenide.svg">
-<img width="7%" title="Selenoid" src="assets/Selenoid.svg">
-<img width="7%" title="Allure Report" src="assets/Allure.svg">
-<img width="7%" title="Allure Test Ops" src="assets/Allure_TO.svg">
-<img width="7%" title="Gradle" src="assets/Gradle.svg">
-<img width="7%" title="JUnit5" src="assets/Junit5.svg">
-<img width="7%" title="GitHub" src="assets/GitHub.svg">
-<img width="7%" title="Jenkins" src="assets/Jenkins.svg">
-<img width="7%" title="Rest Assured" src="assets/RestAssured.svg">
-<img width="7%" title="Android Studio" src="assets/androidstudio.svg">
+<img width="7%" title="IntelliJ IDEA" src="icon/Idea.svg">
+<img width="7%" title="Java" src="icon/Java.svg">
+<img width="7%" title="Selenide" src="icon/Selenide.svg">
+<img width="7%" title="Selenoid" src="icon/Selenoid.svg">
+<img width="7%" title="Allure Report" src="icon/Allure.svg">
+<img width="7%" title="Allure Test Ops" src="icon/Allure_TO.svg">
+<img width="7%" title="Gradle" src="icon/Gradle.svg">
+<img width="7%" title="JUnit5" src="icon/Junit5.svg">
+<img width="7%" title="GitHub" src="icon/GitHub.svg">
+<img width="7%" title="Jenkins" src="icon/Jenkins.svg">
+<img width="7%" title="Rest Assured" src="icon/RestAssured.svg">
+<img width="7%" title="Android Studio" src="icon/androidstudio.svg">
 </p>
 
 ## Projects:
@@ -38,5 +38,8 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
