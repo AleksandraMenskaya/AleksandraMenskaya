@@ -1,14 +1,12 @@
- ## 👋 &nbsp;Hey there! I'm Evgenii 
+ ## 👋 &nbsp;Hey there! I'm Aleksandra.
  ## 💾 I'm Qa Engineer
 
 ### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-💡 &nbsp;I like to explore and learn new technologies. \
 🐛 &nbsp;I do manual testing and look for bugs. \
 💾 &nbsp;I do automated testing of test cases. \
-™️  &nbsp;I play in a team and organize my time cool. \
-👾 &nbsp;In my free time I do game design and video games. \
+👾 &nbsp;In my free time I enjoy playing board games and traveling.. \
  &nbsp;
 
 
@@ -31,18 +29,14 @@
 <img width="7%" title="Jenkins" src="assets/Jenkins.svg">
 <img width="7%" title="Rest Assured" src="assets/RestAssured.svg">
 <img width="7%" title="Android Studio" src="assets/androidstudio.svg">
-<img width="7%" title="Appium" src="assets/appium.svg">
 </p>
 
 ## Projects:
-## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for website [STEAM](https://store.steampowered.com/) 
+## <a target="_blank" href="[https://github.com/Hlammaster/steam_ui_project](https://github.com/AleksandraMenskaya/TinkoffTestUI.git)"> UI testing automation project for website [Tinkoff](https://www.tinkoff.ru) 
 
-## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
- 
-## <a target="_blank" href="https://github.com/Hlammaster/wildberries-mobile"> Mobile automation project for [Wildberiies](https://www.wildberries.ru/)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlammaster&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlammaster&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlammaster&theme=algolia)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
