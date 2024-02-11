@@ -1,18 +1,48 @@
-### Hi there 👋
+ ## 👋 &nbsp;Hey there! I'm Evgenii 
+ ## 💾 I'm Qa Engineer
 
-### Contact
-
-### Tools
-
-
-### Project name
+### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-### Tech Stack
+💡 &nbsp;I like to explore and learn new technologies. \
+🐛 &nbsp;I do manual testing and look for bugs. \
+💾 &nbsp;I do automated testing of test cases. \
+™️  &nbsp;I play in a team and organize my time cool. \
+👾 &nbsp;In my free time I do game design and video games. \
+ &nbsp;
 
 
-### GitHub Analytics
+ 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+                      
+                     
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ ## Tech Stack
+ <p align="center">
+<img width="7%" title="IntelliJ IDEA" src="assets/Idea.svg">
+<img width="7%" title="Java" src="assets/Java.svg">
+<img width="7%" title="Selenide" src="assets/Selenide.svg">
+<img width="7%" title="Selenoid" src="assets/Selenoid.svg">
+<img width="7%" title="Allure Report" src="assets/Allure.svg">
+<img width="7%" title="Allure Test Ops" src="assets/Allure_TO.svg">
+<img width="7%" title="Gradle" src="assets/Gradle.svg">
+<img width="7%" title="JUnit5" src="assets/Junit5.svg">
+<img width="7%" title="GitHub" src="assets/GitHub.svg">
+<img width="7%" title="Jenkins" src="assets/Jenkins.svg">
+<img width="7%" title="Rest Assured" src="assets/RestAssured.svg">
+<img width="7%" title="Android Studio" src="assets/androidstudio.svg">
+<img width="7%" title="Appium" src="assets/appium.svg">
+</p>
+
+## Projects:
+## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for website [STEAM](https://store.steampowered.com/) 
+
+## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
+ 
+## <a target="_blank" href="https://github.com/Hlammaster/wildberries-mobile"> Mobile automation project for [Wildberiies](https://www.wildberries.ru/)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlammaster&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlammaster&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlammaster&theme=algolia)
