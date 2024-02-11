@@ -11,18 +11,18 @@
 
  ## Tech Stack
  <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="icon/Idea.svg">
-<img width="7%" title="Java" src="icon/Java.svg">
-<img width="7%" title="Selenide" src="icon/Selenide.svg">
-<img width="7%" title="Selenoid" src="icon/Selenoid.svg">
-<img width="7%" title="Allure Report" src="icon/Allure_Report.svg">
-<img width="7%" title="Allure Test Ops" src="icon/Allure_TestOps.svg">
-<img width="7%" title="Gradle" src="icon/Gradle.svg">
-<img width="7%" title="JUnit5" src="icon/Junit5.svg">
-<img width="7%" title="GitHub" src="icon/GitHub.svg">
-<img width="7%" title="Jenkins" src="icon/Jenkins.svg">
-<img width="7%" title="Rest Assured" src="icon/RestAssured.svg">
-<img width="7%" title="Android Studio" src="icon/androidstudio.svg">
+<img width="7%" title="IntelliJ IDEA" src="src/icon/Idea.svg">
+<img width="7%" title="Java" src="src/icon/Java.svg">
+<img width="7%" title="Selenide" src="src/icon/Selenide.svg">
+<img width="7%" title="Selenoid" src="src/icon/Selenoid.svg">
+<img width="7%" title="Allure Report" src="src/icon/Allure_Report.svg">
+<img width="7%" title="Allure Test Ops" src="src/icon/Allure_TestOps.svg">
+<img width="7%" title="Gradle" src="src/icon/Gradle.svg">
+<img width="7%" title="JUnit5" src="src/icon/Junit5.svg">
+<img width="7%" title="GitHub" src="src/icon/GitHub.svg">
+<img width="7%" title="Jenkins" src="src/icon/Jenkins.svg">
+<img width="7%" title="Rest Assured" src="src/icon/RestAssured.svg">
+<img width="7%" title="Android Studio" src="src/icon/androidstudio.svg">
 </p>
 
 ## Projects:
