@@ -21,8 +21,8 @@
 <img width="7%" title="Java" src="icon/Java.svg">
 <img width="7%" title="Selenide" src="icon/Selenide.svg">
 <img width="7%" title="Selenoid" src="icon/Selenoid.svg">
-<img width="7%" title="Allure Report" src="icon/Allure.svg">
-<img width="7%" title="Allure Test Ops" src="icon/Allure_TO.svg">
+<img width="7%" title="Allure Report" src="icon/Allure_Report.svg">
+<img width="7%" title="Allure Test Ops" src="icon/Allure_Report.svg">
 <img width="7%" title="Gradle" src="icon/Gradle.svg">
 <img width="7%" title="JUnit5" src="icon/Junit5.svg">
 <img width="7%" title="GitHub" src="icon/GitHub.svg">
