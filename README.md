@@ -13,7 +13,7 @@
  <p align="center">
 <img width="7%" title="IntelliJ IDEA" src="src/icon/Idea.svg">
 <img width="7%" title="Java" src="src/icon/Java.png">
-<img width="7%" title="Selenide" src="src/icon/Selenide.">
+<img width="7%" title="Selenide" src="src/icon/Selenide.png">
 <img width="7%" title="Selenoid" src="src/icon/Selenoid.png">
 <img width="7%" title="Allure Report" src="src/icon/Allure_Report.png">
 <img width="7%" title="Allure Test Ops" src="src/icon/Allure_TestOps.png">
