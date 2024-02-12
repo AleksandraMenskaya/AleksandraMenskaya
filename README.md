@@ -29,7 +29,8 @@
 ## <a target="_blank" href="[https://github.com/Hlammaster/steam_ui_project](https://github.com/AleksandraMenskaya/TinkoffTestUI.git)"> UI testing automation project for website [Tinkoff](https://www.tinkoff.ru) 
 
 ### 🖼️ UI-тесты 
-[![Jenkins Job]([https://jenkins.autotests.cloud/buildStatus/icon?job=TinkoffTestUI](https://jenkins.autotests.cloud/job/TinkoffTestUI/(https://github.com/AleksandraMenskaya/TinkoffTestUI)
+![GitHub Actions](https://github.com/AleksandraMenskaya/TinkoffTestUI/workflows/CI/badge.svg)
+
 ### 🔙 API-тесты 
 
 ### 📱 Android-тесты
