@@ -1,5 +1,5 @@
  ## 👋 &nbsp;Hey there! I'm Aleksandra.
- ## 💾 I'm Qa Engineer
+ ## 💾 I'm QA Engineer
 
 
 🐛 &nbsp;I do manual testing and look for bugs. \
