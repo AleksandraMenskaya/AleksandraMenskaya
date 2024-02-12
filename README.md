@@ -29,11 +29,10 @@
 ## <a target="_blank" href="[https://github.com/Hlammaster/steam_ui_project](https://github.com/AleksandraMenskaya/TinkoffTestUI.git)"> UI testing automation project for website [Tinkoff](https://www.tinkoff.ru) 
 
 ### 🖼️ UI-тесты 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/AleksandraMenskaya/TinkoffTestUI)
+[![Jenkins Job]([https://jenkins.autotests.cloud/buildStatus/icon?job=TinkoffTestUI](https://jenkins.autotests.cloud/job/TinkoffTestUI/(https://github.com/AleksandraMenskaya/TinkoffTestUI)
 ### 🔙 API-тесты 
-//[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=API_Regres.IN_Tests)](https://github.com/Lenok1998/API_Regres.IN_Tests)
+
 ### 📱 Android-тесты
-//[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=WikipediaMobileTests)](https://github.com/Lenok1998/WikipediaMobileTests)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
