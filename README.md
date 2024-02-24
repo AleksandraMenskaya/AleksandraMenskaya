@@ -32,8 +32,11 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/TinkoffTestUI)
 
 ### 🔙 API-тесты 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/DemoqaBookTestAPI)
 
 ### 📱 Android-тесты
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/WikipediaTestMobile)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
