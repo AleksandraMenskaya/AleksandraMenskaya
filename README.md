@@ -44,4 +44,10 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraMenskaya)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-streak-stats.herokuapp.com/?user=AleksandraMenskaya
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AleksandraMenskaya&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
