@@ -26,13 +26,17 @@
 </p>
 
 ## Projects:
-## <a target="_blank" href="[https://github.com/Hlammaster/steam_ui_project](https://github.com/AleksandraMenskaya/TinkoffTestUI.git)"> UI testing automation project for website [Tinkoff](https://www.tinkoff.ru) 
+## <a target="_blank" href="[https://github.com/AleksandraMenskaya/TinkoffTestUI.git]"> UI testing automation project for website [Tinkoff](https://www.tinkoff.ru) 
 
 ### 🖼️ UI-тесты 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/TinkoffTestUI)
 
+## <a target="_blank" href="[https://github.com/AleksandraMenskaya/DemoqaBookTestAPI]"> UI testing automation project for website [DemoQA](https://demoqa.com) 
+
 ### 🔙 API-тесты 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/DemoqaBookTestAPI)
+
+## <a target="_blank" href="[https://github.com/AleksandraMenskaya/WikipediaTestMobile]"> UI testing automation project for website [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) 
 
 ### 📱 Android-тесты
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/AleksandraMenskaya/WikipediaTestMobile)
