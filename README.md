@@ -48,10 +48,6 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AleksandraMenskaya)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraMenskaya)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
