@@ -4,7 +4,7 @@
 
 🐛 &nbsp;I do manual testing and look for bugs. \
 💾 &nbsp;I do automated testing of test cases. \
-👾 &nbsp;In my free time I enjoy playing board games and traveling.. \
+👾 &nbsp;In my free time I enjoy playing board games and traveling.\
  &nbsp;
 
                    
